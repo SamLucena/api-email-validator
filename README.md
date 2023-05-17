@@ -2,7 +2,7 @@
 
 Uma api em springboot que realiza a validação do email de usuários.
 
-## Exemplos Requisições
+## URL requisição
 
 - POST: ``https://email-validator.up.railway.app/api/v1/validate``
 
